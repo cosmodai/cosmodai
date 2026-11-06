@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Cosmo 👋
 
-<!--
-**cosmodai/cosmodai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in food-delivery operations in Canada, and I build AI agents that run that work every day.
 
-Here are some ideas to get you started:
+**[Xiaodai AI](https://cosmodai.github.io/xiaodai-ai-showcase/?lang=en)** is my multi-agent operations system, built on Claude's native tool use and running on a live business since May 2026. A coordinator routes work to fixed-role subagents through typed tool arguments, hooks and circuit breakers govern every tool call, and "done" only counts once the real result is read back.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧭 [Portfolio (English)](https://cosmodai.github.io/xiaodai-ai-showcase/?lang=en) · [中文](https://cosmodai.github.io/xiaodai-ai-showcase/)
+- ▶️ [Execution trace replay](https://cosmodai.github.io/xiaodai-ai-showcase/trace.html?lang=en): one task, step by step, with and without completion assertions
+- 🧰 [11 public skills](https://github.com/cosmodai/xiaodai-ai-showcase/tree/main/skills) for Claude Code, each with a worked example
+- 📝 [Engineering notes](https://github.com/cosmodai/xiaodai-ai-showcase/tree/main/docs/en): typed routing, phantom completion, circuit breakers from incident data
+
+**From its own ledgers:** 163 days running · 4,348 subagent dispatches · 21,857 scheduled job runs · 25,247 outgoing sends checked by completion gates.
+
+Interested in agent reliability, operations analytics and growth. Find me on [LinkedIn](https://www.linkedin.com/in/weiye-dai-a31647a3/).
